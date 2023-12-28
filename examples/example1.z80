@@ -1,3 +1,0 @@
-LD A, 5
-LD B, 6
-ADD A, B
